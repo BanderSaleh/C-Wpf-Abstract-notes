@@ -1,0 +1,6 @@
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\WpfApp_Abstract_Notes.csproj.AssemblyReference.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\BanderNotes\BandersNotes.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\WpfApp_Abstract_Notes_MarkupCompile.cache
+C:\Users\bande\OneDrive\Desktop\RTC Less Paths\2023 Programming 3\Lecture january 31 2023\WpfApp_Abstract_Notes\obj\Debug\net6.0-windows\WpfApp_Abstract_Notes_MarkupCompile.lref
