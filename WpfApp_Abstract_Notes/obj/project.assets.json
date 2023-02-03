@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\WpfApp_Abstract_Notes\\WpfApp_Abstract_Notes.csproj",
+      "projectUniqueName": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\C-Wpf-Abstract-notes\\WpfApp_Abstract_Notes\\WpfApp_Abstract_Notes.csproj",
       "projectName": "WpfApp_Abstract_Notes",
-      "projectPath": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\WpfApp_Abstract_Notes\\WpfApp_Abstract_Notes.csproj",
+      "projectPath": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\C-Wpf-Abstract-notes\\WpfApp_Abstract_Notes\\WpfApp_Abstract_Notes.csproj",
       "packagesPath": "C:\\Users\\bande\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\WpfApp_Abstract_Notes\\obj\\",
+      "outputPath": "C:\\Users\\bande\\OneDrive\\Desktop\\RTC Less Paths\\2023 Programming 3\\Lecture january 31 2023\\C-Wpf-Abstract-notes\\WpfApp_Abstract_Notes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bande\\AppData\\Roaming\\NuGet\\NuGet.Config",

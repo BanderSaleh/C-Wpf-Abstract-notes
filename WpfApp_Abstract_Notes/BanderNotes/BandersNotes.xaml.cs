@@ -34,7 +34,7 @@ namespace WpfApp_Abstract_Notes.BanderNotes
 
             // Our New Wpf App will first run the code from MainWindow.xaml.cs.
 
-            // Our first base parent class of code for our project:
+            // Our initial base parent class of code for our project:
 
             // MainWindow.xaml.cs (File)
 
@@ -57,9 +57,13 @@ namespace WpfApp_Abstract_Notes.BanderNotes
 
             // Product.cs (file)
             /*
+             // The Product Class is where we will use an Abstract class,
+            //an Abstract class is used to create a general class that
+            //others can inherit from, but you can make an instance of directly
+            
              // First, I wrote all of my instance details out for Product
-             // that I convert to a constructor by highlighting the instance details
-             // and right clicking on the highlighted data and then choose constructor.
+             //that I convert to a constructor by highlighting the instance details
+             //and right clicking on the highlighted data and then choose constructor.
              
             // Next, I gave our app some default data to display on our listbox when the App runs
             void Preload()
@@ -70,6 +74,7 @@ namespace WpfApp_Abstract_Notes.BanderNotes
             products.Add(new HotDrink([insert details for all 3 parameters of child class added to our listbox]);
             }
 
+            
 
 
             */
@@ -121,12 +126,24 @@ namespace WpfApp_Abstract_Notes.BanderNotes
 
             How do you create an abstract class?
             Answer:
+            To declare a class abstract, you place
+            the word abstract before class, similar to static.
 
             Can you create a new instance of an abstract class?
             Answer:
+            No. Abstract classes cannot have instances, but they can be subclassed.
+            This is because an abstract class is meant to be the foundation for a class
+            but not used itself.
             
             Can you give a body to an abstract method?
             Answer:
+            No. A method that is declared abstract,
+            has no “body” and is declared inside the abstract class only.
+            The derived children HAS to create its behavior. An example of
+            using the Abstract class in our Drinks Menu App is in the Product
+            class where it is used to create a generic initial base parent class that
+            others can inherit from, but you can make an instance of directly
+
 
             */
         }
