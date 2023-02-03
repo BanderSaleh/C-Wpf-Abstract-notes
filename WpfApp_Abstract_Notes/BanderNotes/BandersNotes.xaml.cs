@@ -59,7 +59,7 @@ namespace WpfApp_Abstract_Notes.BanderNotes
             /*
              // The Product Class is where we will use an Abstract class,
             //an Abstract class is used to create a general class that
-            //others can inherit from, but you can make an instance of directly
+            //others can inherit from, but you can make a current instance of directly
             
              // First, I wrote all of my instance details out for Product
              //that I convert to a constructor by highlighting the instance details
@@ -133,16 +133,16 @@ namespace WpfApp_Abstract_Notes.BanderNotes
             Answer:
             No. Abstract classes cannot have instances, but they can be subclassed.
             This is because an abstract class is meant to be the foundation for a class
-            but not used itself.
+            but not used itself.  An example of using the Abstract class in our
+            Drink Menu App is in the Product class where it is used to create
+            a generic initial base parent class that others can inherit from,
+            but you can make a current instance of directly
             
             Can you give a body to an abstract method?
             Answer:
             No. A method that is declared abstract,
             has no “body” and is declared inside the abstract class only.
-            The derived children HAS to create its behavior. An example of
-            using the Abstract class in our Drinks Menu App is in the Product
-            class where it is used to create a generic initial base parent class that
-            others can inherit from, but you can make an instance of directly
+            The derived children HAS to create its behavior.
 
 
             */
